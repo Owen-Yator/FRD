@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685126154599",
+    "project_id": "owen-ogin-signup-frd-f3c4f",
+    "storage_bucket": "owen-ogin-signup-frd-f3c4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685126154599:android:48861398a8e5a14d4757c2",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupfrd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_Jjj31Hmhx_raZjnlRDaO8fgeTTskWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
